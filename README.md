@@ -1,5 +1,8 @@
 # MarketPulse-The-Live-AI-Trading-Hub
 
+
+required libraries; pip install gymnasium stable-baselines3 numpy matplotlib ttkthemes
+
 Brief Description of Key Components.
 
 
